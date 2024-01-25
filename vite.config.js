@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'FurCare Management System', // <--- 👀
-        short_name: 'FurCare Mobile App', // <--- 👀
+        name: 'FurCare Mobile', // <--- 👀
+        short_name: 'FurCare', // <--- 👀
         description: 'A mobile app for petowners.', // <--- 👀
         theme_color: '#ffffff',
         icons: [
